@@ -42,3 +42,4 @@ Computational simulations across expanding apexes yield the following exact brid
 ## 5. Conclusion | الخلاصة
 **EN:** Pyramid H provides a finite, constructive, and computationally testable foundation to study prime symmetry without relying on completed infinities.  
 **AR:** توفر لغة هرم $H$ أساساً منتهياً وبنائياً وقابلاً للاختبار الحسابي لدراسة تماثل الأعداد الأولية دون الاعتماد على اللانهايات المكتملة.
+- H_50000000 -> 291,400 bridges, Density 0.58%
