@@ -43,3 +43,14 @@ Computational simulations across expanding apexes yield the following exact brid
 **EN:** Pyramid H provides a finite, constructive, and computationally testable foundation to study prime symmetry without relying on completed infinities.  
 **AR:** توفر لغة هرم $H$ أساساً منتهياً وبنائياً وقابلاً للاختبار الحسابي لدراسة تماثل الأعداد الأولية دون الاعتماد على اللانهايات المكتملة.
 - H_50000000 -> 291,400 bridges, Density 0.58%
+## 6. Why Pyramid H? | علاش لغة هرم H؟
+
+**EN:** Traditional mathematics is built on Actual Infinity. Pyramid H is constructive: reality is only the apex (n) built.
+1. No Actual Infinity: primes as in-progress process
+2. Local Density: Density = Bridges / n, 20% → 0.58%
+3. Pure Algorithmic: Math truth is what can be built at apex n.
+
+**AR:** الرياضيات التقليدية مبنية على اللانهاية الفعلية. هرم H بنائي: الواقع هو القمة (n) اللي بنيناها.
+1. بلا لانهاية فعلية
+2. كثافة محلية: 20% → 0.58%
+3. خوارزمي بحت
